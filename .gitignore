@@ -1,0 +1,5 @@
+/node_modules
+/emails
+/.prettierrc
+/package-lock.json
+/package.json
